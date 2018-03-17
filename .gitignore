@@ -1,0 +1,5 @@
+##ignore this file##
+/.idea/*
+/out/
+/.idea/misc.xml
+io.iml
