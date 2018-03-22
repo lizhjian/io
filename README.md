@@ -1,7 +1,14 @@
-java IO
+#java IO
 
-#IO原理及流的分类
-
+###IO原理及流的分类
+ #### 基类
+ * 字节流的抽象基类
+   * InputStream 
+   * OutputStream
+ * 字节流的抽象基类
+   * Reader
+   * Writer
+ #### 子类     
  * 文件流
    * FileInputStream
    * FileOutputStream
@@ -27,3 +34,5 @@ java IO
    * ObjectOutputStream
  * 随机存取文件里流
    * RandomAccessFile
+  
+   
