@@ -5,6 +5,7 @@ import java.io.FileReader;
 
 /**
  * 字符读取缓冲区
+ * 按行读取，当读到末尾时 返回null
  */
 public class BufferedReaderDemo {
     public static void main(String[] args) {
