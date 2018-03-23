@@ -40,6 +40,7 @@ public class CopyText {
         while ((num=fileReader.read(buf))!=-1){
              fileWriter.write(buf,0,num);
         }
+
         fileWriter.close();
         fileReader.close();
 
