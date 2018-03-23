@@ -1,6 +1,6 @@
-#java IO
+# java IO
 
-###IO原理及流的分类
+### IO原理及流的分类
  #### 基类
  * 字节流的抽象基类
    * InputStream 
